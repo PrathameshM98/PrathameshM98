@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
-<h3 align="center">A passionate software developer currently in the US.</h3>
+<h3 align="center">A passionate full-stack developer currently in the US.</h3>
 
 - 🔭 I’m currently working on [Horizon](https://github.com/PrathameshM98/Horizon---Banking-Site)
 
-- 🌱 I’m currently learning **Data structures and Algorithm, Devops and LLM models**
+- 🌱 I’m currently learning **NextJS, Data structures and Algorithm, DevOps and LLM models**
 
 - 💬 Ask me about **javascript, nextjs and machine learning**
 
